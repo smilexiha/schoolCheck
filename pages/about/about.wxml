@@ -1,0 +1,11 @@
+<view class='container'>
+<view class='part' style="background:url('/images/15.jpg');background-size:100% 200px">
+<text>研究生招生考试流程</text>
+</view>
+<view class='part' style="background:url('/images/13.jpg');background-size:100% 200px">
+<text>专硕OR学硕</text>
+</view>
+<view class='part' style="background:url('/images/11.jpg');background-size:100% 200px">
+<text>研究生招生考试时间</text>
+</view>
+</view>
